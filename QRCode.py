@@ -1,6 +1,6 @@
 import pyqrcode
 
-s = "whaddup fellas"
+s = "whaddup fellas ur awesome"
 
 url = pyqrcode.create(s)
 
